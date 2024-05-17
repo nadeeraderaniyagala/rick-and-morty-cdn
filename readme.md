@@ -1,5 +1,8 @@
 # Rick and Morty Character Viewer
 
+## Website 
+https://nadeeraderaniyagala.github.io/rick-and-morty-cdn/
+
 ## Overview
 
 The Rick and Morty Character Viewer is a simple web application that fetches character data from the Rick and Morty API and displays it in a visually appealing format. Users can view a list of characters along with their images and origins. Additionally, they have the option to delete characters from the list.
